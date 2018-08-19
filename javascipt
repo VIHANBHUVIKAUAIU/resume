@@ -1,0 +1,28 @@
+{
+	"basicdetails":{
+		"image":"kk.jpg",
+		"name":"Eluri.kavyasri",
+		"Email":"kavyasrieluri@gmail.com",
+		"phone":"8886161036",
+        "address":"5-171,rajupalem,prakasam(dt)"
+
+	},
+	"education":[
+	{	
+		      "course":"B.TECH(CSE)",
+		       "college":"vignan nirula",
+		       "percentage":"84%"
+	},	       
+
+	{
+		"course":"intermediate",
+		"college":"sri chaitanya",
+         "percentage":"95%"
+	},
+	{
+		"course":"ssc",
+		"college":"techno school",
+		 "percentage":"97"
+	}
+]
+}

@@ -1,0 +1,53 @@
+{
+	"basicdetails":{
+		"image":"manasa.jpg",
+		"name":"NALAM.MANASA",
+		"Email":"manasanalam123@gmail.com",
+		"phone":"8886161036",
+        "address":"flat no:101,pathuri street,Narasaraopet,Guntur(dt)"
+
+	},
+	"education":[
+	{	
+		      "course":"B.TECH(CSE)",
+              "college":"vignan nirula",
+		      "percentage":"84.45"
+	},	       
+
+	{
+		"course":"INTERMEDIATE",
+		"college":"sri chaitanya",
+        "percentage":"95%"
+	},
+	{
+		"course":"SSC",
+		"college":"sri chaitanya techno school",
+		"percentage":"9.7"
+	}
+   ], 
+    "skills":[
+    	{
+    	"name":"OS",
+    	"value":"windows,Linux,unix"
+    },
+    {
+    	"name":"programming language",
+    	"value":"c,c++,java,python"
+    }
+    ],
+     "carrier":{
+     	"ca":" seeking managerial assignments in enterpraise resource planning,project planning and management in reputed firm"
+
+     },
+     "achievements":[
+     	"i had participatated in many competitions and won 1 and 2 prizes"
+     ],
+
+     "description":{
+
+        "des":"i here by clarify that the above information true and correct to my knowledge and belief" 
+     }
+
+
+
+}
