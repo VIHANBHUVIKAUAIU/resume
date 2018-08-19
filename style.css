@@ -1,0 +1,129 @@
+.main{
+	width:100%;
+	border:2px solid #000;
+	margin:2px;
+	display: flex;	
+	flex-wrap: wrap;
+  
+}
+.first{
+	   width:100;
+	   border:2px solid #000;
+	   margin:2px;
+	   display:flex;
+       flex-wrap:wrap;
+}
+.left{
+	flex:2;
+	background-color:lightcyan;
+	border: 2px solid #000;
+	margin: 2px;
+}
+.right{
+	flex:3;
+	background-color:plum;
+	border: 2px solid #000;
+	margin: 2px;
+}
+#b{
+	color:pink;
+	font-size:20px;
+	font-style:italic;
+}
+img{
+	width:100px;
+}
+table,td,tr{
+	border: 2px solid #000;
+	border-collapse: collapse;
+}
+@media only screen and (min-width:320px) and (max-width:480px){
+.main{
+	
+	/*border:2px solid #000;*/
+	/*margin:2px;*/
+	display: flex;	
+	/*flex-wrap: wrap;*/
+	flex-direction:column;
+ }
+.first{
+	   border:2px solid #000;
+	   margin:2px;
+	   display:flex;
+       flex-wrap:wrap;
+       flex-direction:column;
+}
+.left{
+	flex:2;
+	background-color:lightcyan;
+	border: 2px solid #000;
+	margin: 2px;
+}
+.right{
+	flex:3;
+	background-color:plum;
+	border: 2px solid #000;
+	margin: 2px;
+}
+}
+
+@media only screen and (min-width:320px) and (max-width:480px) {
+.main{
+	
+	/*border:2px solid #000;*/
+	margin:2px;
+	display: flex;	
+	/*flex-wrap: wrap;*/
+	flex-direction:column;
+ }
+.first{
+	   
+	  /* border:2px solid #000;*/
+	   margin:2px;
+	   display:flex;
+       flex-wrap:wrap;
+       flex-direction:column;
+}
+.left{
+	flex:;
+	background-color:lightcyan;
+	border: 2px solid #000;
+	margin: 2px;
+}
+.right{
+	flex:3;
+	background-color:plum;
+	border: 2px solid #000;
+	margin: 2px;
+}
+@media only screen and (min-width:481px) and (max-width:720px) {
+.main{
+	
+	/*border:2px solid #000;*/
+	/*margin:2px;*/
+	display: flex;	
+	/*flex-wrap: wrap;*/
+	flex-direction:row;
+ }
+.first{
+	   
+	   border:2px solid #000;
+	   margin:2px;
+	   display:flex;
+       flex-wrap:wrap;
+       flex-direction:row;
+      
+}
+.left{
+	flex:;
+	background-color:hotpink;
+	border: 2px solid #000;
+	margin: 2px;
+}
+.right{
+	flex:3;
+	background-color:plum;
+	border: 2px solid #000;
+	margin: 2px;
+}
+}
